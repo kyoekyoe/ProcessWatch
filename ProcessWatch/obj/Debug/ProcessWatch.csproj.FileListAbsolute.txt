@@ -1,0 +1,9 @@
+C:\Users\Test A 3D\Documents\＃VB_Project\ProcessWatch\ProcessWatch\bin\Debug\ProcessWatch.exe.config
+C:\Users\Test A 3D\Documents\＃VB_Project\ProcessWatch\ProcessWatch\obj\Debug\ProcessWatch.csprojResolveAssemblyReference.cache
+C:\Users\Test A 3D\Documents\＃VB_Project\ProcessWatch\ProcessWatch\obj\Debug\ProcessWatch.Properties.Resources.resources
+C:\Users\Test A 3D\Documents\＃VB_Project\ProcessWatch\ProcessWatch\obj\Debug\ProcessWatch.csproj.GenerateResource.Cache
+C:\Users\Test A 3D\Documents\＃VB_Project\ProcessWatch\ProcessWatch\obj\Debug\ProcessWatch.Form1.resources
+C:\Users\Test A 3D\Documents\＃VB_Project\ProcessWatch\ProcessWatch\bin\Debug\ProcessWatch.exe
+C:\Users\Test A 3D\Documents\＃VB_Project\ProcessWatch\ProcessWatch\bin\Debug\ProcessWatch.pdb
+C:\Users\Test A 3D\Documents\＃VB_Project\ProcessWatch\ProcessWatch\obj\Debug\ProcessWatch.exe
+C:\Users\Test A 3D\Documents\＃VB_Project\ProcessWatch\ProcessWatch\obj\Debug\ProcessWatch.pdb
